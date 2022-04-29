@@ -1,8 +1,0 @@
-C:\Users\jongtek\Documents\Projet\ProcessInjection\ProcessInjection\bin\Debug\ProcessInjection.exe.config
-C:\Users\jongtek\Documents\Projet\ProcessInjection\ProcessInjection\bin\Debug\ProcessInjection.exe
-C:\Users\jongtek\Documents\Projet\ProcessInjection\ProcessInjection\bin\Debug\ProcessInjection.pdb
-C:\Users\jongtek\Documents\Projet\ProcessInjection\ProcessInjection\obj\Debug\ProcessInjection.csproj.AssemblyReference.cache
-C:\Users\jongtek\Documents\Projet\ProcessInjection\ProcessInjection\obj\Debug\ProcessInjection.csproj.SuggestedBindingRedirects.cache
-C:\Users\jongtek\Documents\Projet\ProcessInjection\ProcessInjection\obj\Debug\ProcessInjection.csproj.CoreCompileInputs.cache
-C:\Users\jongtek\Documents\Projet\ProcessInjection\ProcessInjection\obj\Debug\ProcessInjection.exe
-C:\Users\jongtek\Documents\Projet\ProcessInjection\ProcessInjection\obj\Debug\ProcessInjection.pdb
